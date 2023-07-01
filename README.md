@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React.js project.<br>👯 I’m looking to collaborate on Web App Development.<br>🌱 I’m currently learning Express, MongoDB and Node.<br>💬 Ask me about Full Stack Web Development.<br>⚡ Fun fact - I love to play video games.
+🔭 I’m currently working on a React.js project.<br>👯 I’m looking to collaborate on Web App Development.<br>🌱 I’m currently learning Express, MongoDB and Node.<br>💬 Ask me about Full Stack Web Development.<br>⚡ Fun fact - I love to play video games. <br>
 🌎 Portfolio - https://hasims2001.github.io/
 
 ## 🌐 Socials:
