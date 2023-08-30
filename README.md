@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on a React.js project.<br>👯 I’m looking to collaborate on Web App Development.<br>🌱 I’m currently learning Express, MongoDB and Node.<br>💬 Ask me about Full Stack Web Development.<br>⚡ Fun fact - I love to play video games. <br>
-🌎 Portfolio - https://hasims2001.github.io
+🌎 Portfolio - [hasims2001.github.io](https://hasims2001.github.io)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasim_s2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-hasim-shaikh-b16279251) 
