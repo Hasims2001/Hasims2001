@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web developer with a strong work ethic, boasting a proven track record of delivering user and admin-focused projects. Committed to continuous learning and innovation, with 1200+ hours of coding experience, 450+ hours dedicated to data structures and algorithms, and 100+ hours invested in soft skill development. <br>
+Passionate Full-Stack Web Developer with a strong work ethic, boasting a proven track record of delivering user and admin-focused projects. Committed to continuous learning and innovation, with 1200+ hours of coding experience, 450+ hours dedicated to data structures and algorithms, and 100+ hours invested in soft skill development. <br>
 🌎 Portfolio - [hasims2001.github.io](https://hasims2001.github.io)
 
 ## 🌐 Socials:
