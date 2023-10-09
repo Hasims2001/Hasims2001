@@ -1,7 +1,7 @@
 # 💫 About Me:
-✨ I'm an aspiring MERN developer
-🔭 I’m currently working on Personal Project
-👯 I’m looking to collaborate on web development
+✨ I'm an aspiring MERN developer<br>
+🔭 I’m currently working on Personal Project<br>
+👯 I’m looking to collaborate on web development<br>
 🌱 I’m currently learning Next.js <br>
 🌎 Portfolio - [hasims2001.github.io](https://hasims2001.github.io)
 
