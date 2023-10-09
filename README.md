@@ -3,6 +3,7 @@
 🔭 I’m currently working on Personal Project<br>
 👯 I’m looking to collaborate on web development<br>
 🌱 I’m currently learning Next.js <br>
+⚡ Fun fact: I love to watch standup comedy in my free time  <br>
 🌎 Portfolio - [hasims2001.github.io](https://hasims2001.github.io)
 
 ## 🌐 Socials:
