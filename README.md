@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 Motivated Full Stack Web Developer with a rapid learning ability, specializing in Generative AI. Proficient in JavaScript, Python, HTML/CSS, and adept at crafting diverse projects for user and admin interfaces. Possesses strong problem-solving skills and a commitment to innovation in a dynamic development setting. <br>
+📝 Motivated Full Stack Web Developer with a rapid learning ability, specializing in Generative AI. Proficient in JavaScript, Python, Flask, HTML/CSS, and adept at crafting diverse projects for user and admin interfaces. Possesses strong problem-solving skills and a commitment to innovation in a dynamic development setting. <br>
 ✨ I'm an aspiring MERN developer<br>
 🔭 I’m currently working on Personal Project<br>
 👯 I’m looking to collaborate on web development<br>
