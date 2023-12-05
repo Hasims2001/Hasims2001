@@ -1,6 +1,5 @@
 # 💫 About Me:
 📝 Passionate Full Stack Web Developer with a rapid learning ability, specializing in Generative AI. Proficient in JavaScript, Python, Flask, HTML/CSS, and adept at crafting diverse projects for user and admin interfaces. Possesses strong problem-solving skills and a commitment to innovation in a dynamic development setting <br>
-🔭 Working on GenAI Project<br>
 👯 looking to collaborate on web development<br>
 🌱 Currently learning Next.js <br>
 ⚡ Fun fact: I love to watch standup comedy in my free time  <br>
